@@ -1,2 +1,3 @@
 # AI-Case-Study-2023
-AI 
+
+ First research assignment of the 2003 SMU AI Boot Camp
