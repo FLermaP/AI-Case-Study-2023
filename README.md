@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-###The Company
+### The Company
 * EXLService Holdings Inc, EXL Inc., EXL
 
 Incorporation and Ownership History
