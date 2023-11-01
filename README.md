@@ -65,18 +65,22 @@ As far as Data Analythics Competitors there many companies including:
 
 ## Results
 
-* What has been the business impact of this company so far?
+* While no information was found other than the one in EXLService website, it leads to believe it has helped some of the bigest companies in the Insurance, Health  industries to adapt to the quickly changing Digital and now AI technologies.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* No clear metrics where found to use as comparisson between Data Analytics Companies, two common features constantly mentioned seemed to be the Experience in years serving a certain industry as well as the size of their top customers. While some companies mention "One of the top 3 Insurance Companies" others mention specific companies like Walmart, Toyota, 21st Century Fox, etc.
 
-* How is your company performing relative to competitors in the same field?
+* EXLServices did not appear in any top ranking charts, depending on the website the companies listed would be Largely known companies as Oracle, Amazon, IBM, etc. while others would mention less knwon companies such as Tableu, Qlick, Splunk, Fractal Analytics. 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Currently the company is advertising their Products/Services Data Governance as a Service (DGaaS) and Automating Audit using AI in the field of Insurance. There is a BIG room to grow in Governance, Risk, and Compliance (GRC) using AI
 
-* Why do you think that offering this product or service would benefit the company?
+* Internal Audit usually takes a lot of Humans and a lot Human Hours, finding documents, going through looking for the needed compliance information. Monotonous tasks which AI should be able to do in a small fraction of the time and at a small fraction of the cost.
+  
+## Sources
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+  * Oak Hill Capital Partners, L.P., Financial Technology Ventures (Q), L.P. Justia. (n.d.). https://contracts.justia.com/companies/exlservice-holdings-inc-492/contract/1029998/
+  * EXL Service, https://www.exlservice.com/about-exl
+  * Adam Shell (2023, February 02), Investor's Business Daily. CEO Of Fast-Growing Company Says Hard Work Isn't Enough.  https://www.investors.com/news/management/leaders-and-success/exlservice-ceo-rohit-kapoor-hard-work-competition/
+  * Ramish Cheema (2023, July 13), Insider Monkey. Top 5 Big Data Analytics Companies of 2023. https://www.insidermonkey.com/blog/top-5-big-data-analytics-companies-of-2023-1166842/?singlepage=1
+  * Ramish Cheema (2023, July 13), Yahopo Finance. Top 15 Big Data Analytics Companies of 2023. https://finance.yahoo.com/news/top-15-big-data-analytics-155243458.html
