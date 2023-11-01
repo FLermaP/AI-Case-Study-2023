@@ -11,15 +11,17 @@
 * On November, 2002 re-acquired from Conseco by a group including Vikram Talwar, Rohit Kapoor, Oak Hill Capital Partners L.P., FTVentures and certain other senior members of the management team.
 
 ### Acquisitions and other Investments
+
 * Acquired a company by the name of Inductis in July, 2006. Inductis was a provider of research and analytics services.
-* EXL Inc. Invested 3 million with the attempt to acquire a company by the name of iTouchpoint resulting in a loss of almost all 3 Million
+* EXL Inc. Invested 3 million dollars with the attempt to acquire a company by the name of iTouchpoint resulting in a loss of almost all 3 Million dollars
 
 ### From beginning to now
+
 * ExlService started as an email processing company. It helped dot-com companies like 1-800-Flowers.com and Amazon.com (AMZN) provide better service to their customers via email. The math made sense initially. It cost $3 to process emails in the U.S., but just $1 in India where the company was based then. So, ExlService charged $2, earning a nice profit while also saving its clients' money.
 * It later shifted to a Transaction-processing business. Back-office type of work such as insurance policy administration and mortgage processing.
 * Trying to position the company in a better situation Kapoor decided to go into Data Analitics which was "sold" as "Higher Complexity" work as a way to stand out from other companies.
 
-* According to a STOCK PURCHASE AGREEMENT dated November 14,2002, FT Ventures and Oak Hill Capital Partners L.P. agreed to Invest 10,000,000.00 dollars into EXLService Holdings which was to be received by EXLService Holdings within 30 days of the closing of the agreement
+* When it comes to funding a STOCK PURCHASE AGREEMENT was found dated November 14,2002. In this agreement FT Ventures and Oak Hill Capital Partners L.P. agreed to Invest $10,000,000.00 dollars into EXLService Holdings which was to be received by EXLService Holdings within 30 days of the closing of the agreement
 
 ## Business Activities
 
@@ -41,18 +43,16 @@ EXL works with companies in Industries such as:
 * Utilities
 
 ### How is EXL different?
-* Talent all over the world instantly accessible due to EXL's geographic diversity,
+* EXL has Talent all over the world instantly accessible due to EXL's geographic diversity,
 * Digital accelerators enable unmatched speed-to-value, allowing customers to realize results fast,
 * 1,500 data scientists dedicated to their generative AI practice,
 * More than twenty years of experience in delivering business services.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 ## Landscape
 
-* Since the start of the company, it's focus has been in Information Technologies, started by responding and managing Electronic Mail (E-Mail), to managing Insurance Policies and Processing Mortgage Information, to now analyzing data to identify trends and provide insights and recommendations.
+* Since the start of the company, it's focus has been in Information Technologies. It started by responding and managing Electronic Mail (E-Mail), moved to managing Insurance Policies and Processing Mortgage Information, and now also offers services analyzing data to identify trends and provide insights and recommendations.
   
-* Starting with the change to the Digital Age, the sudden push to a higher need of Digital with the global Pandemic and people working remote and now a new big push to the use of AI, EXL has been working to keep up to date and help it's customers keep up with the changes
+* Starting with the change to the Digital Age, the global Pandemic sudden push to needing higher need of Digital with  and people working remote and now a new big push to the use of AI, EXL has been working to keep up to date and help it's customers keep up with the changes
   
 As far as Data Analythics Competitors there many companies including:
 *   Oracle Corporation
@@ -65,17 +65,20 @@ As far as Data Analythics Competitors there many companies including:
 
 ## Results
 
-* While no information was found other than the one in EXLService website, it leads to believe it has helped some of the bigest companies in the Insurance, Health  industries to adapt to the quickly changing Digital and now AI technologies.
+* Regarding success of the company and it's customers, no information was found other than the one in EXLService website, it leads to believe it has helped some of the bigest companies in the Insurance, Health  industries to adapt to the quickly changing Digital and now AI technologies. The success can be measured by the fact that it is still reporting proffits over 20 years after it's creation.
 
-* No clear metrics where found to use as comparisson between Data Analytics Companies, two common features constantly mentioned seemed to be the Experience in years serving a certain industry as well as the size of their top customers. While some companies mention "One of the top 3 Insurance Companies" others mention specific companies like Walmart, Toyota, 21st Century Fox, etc.
+* Trying to compare this to other similar companies no clear metrics where found. Common features constantly mentioned on sites that rate the top companies seemed to be
+  *   Experience in years serving a certain industry,
+  *   Type of Services they offer,
+  *   The size of their top customers. While some companies mention "One of the top 3 Insurance Companies" others mention specific companies like Walmart, Toyota, 21st Century Fox, etc.
 
-* EXLServices did not appear in any top ranking charts, depending on the website the companies listed would be Largely known companies as Oracle, Amazon, IBM, etc. while others would mention less knwon companies such as Tableu, Qlick, Splunk, Fractal Analytics. 
+* EXLServices did not appear in any top ranking charts. Depending on the website the companies listed would be Large and Largely known companies as Oracle, Amazon, IBM, etc. while others would mention less known companies such as Tableu, Qlick, Splunk, Fractal Analytics. 
 
 ## Recommendations
 
-* Currently the company is advertising their Products/Services Data Governance as a Service (DGaaS) and Automating Audit using AI in the field of Insurance. There is a BIG room to grow in Governance, Risk, and Compliance (GRC) using AI
+* Currently the company is advertising among their Products/Services "Data Governance as a Service (DGaaS)" and "Automating Audit using AI", this last one seems to be only aimed at Insurance companies. 
 
-* Internal Audit usually takes a lot of Humans and a lot Human Hours, finding documents, going through looking for the needed compliance information. Monotonous tasks which AI should be able to do in a small fraction of the time and at a small fraction of the cost.
+* There is a BIG room to grow in Governance, Risk, and Compliance (GRC) using AI. Internal Audit usually takes a lot of Humans and a lot Human Hours in monotonous tasks like finding documents and going through looking for the needed compliance information. Monotonous tasks which AI should be able to do more efficiently in a small fraction of the time and at a fraction of the cost. This would reduce the looking time and allow the auditor to just review the results
   
 ## Sources
 
