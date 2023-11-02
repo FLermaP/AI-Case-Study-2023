@@ -13,7 +13,7 @@
 ### Acquisitions and other Investments
 
 * Acquired a company by the name of Inductis in July, 2006. Inductis was a provider of research and analytics services.
-* EXL Inc. Invested 3 million dollars with the attempt to acquire a company by the name of iTouchpoint resulting in a loss of almost all 3 Million dollars
+* EXL Inc. Invested 3 Million dollars with the attempt to acquire a company by the name of iTouchpoint resulting in a loss of almost all 3 Million dollars
 
 ### From beginning to now
 
@@ -34,9 +34,9 @@ to help their clients turn data into insights, streamline operations, improve cu
 
 ### Who can benefit from this services
 EXL works with companies in Industries such as:
-* Business Services,
+* **Business Services**,
 * Health and Life Sciences,
-* Insurance,
+* **Insurance**,
 * Manufacturing and Logistics,
 * Retail and Consumer Products,
 * Technology, Media and Telecom,
@@ -54,7 +54,7 @@ EXL works with companies in Industries such as:
   
 * Starting with the change to the Digital Age, the global Pandemic sudden push to needing higher need of Digital with  and people working remote and now a new big push to the use of AI, EXL has been working to keep up to date and help it's customers keep up with the changes
   
-As far as Data Analythics Competitors there many companies including:
+### Mayor Data Analythics companies to compete with include:
 *   Oracle Corporation
 *   Microsoft Corporation
 *   Alphabet Inc. (Google)
@@ -65,25 +65,34 @@ As far as Data Analythics Competitors there many companies including:
 
 ## Results
 
-* Regarding success of the company and it's customers, no information was found other than the one in EXLService website, it leads to believe it has helped some of the bigest companies in the Insurance, Health  industries to adapt to the quickly changing Digital and now AI technologies. The success can be measured by the fact that it is still reporting proffits over 20 years after it's creation.
-
-* Trying to compare this to other similar companies no clear metrics where found. Common features constantly mentioned on sites that rate the top companies seemed to be
+* Regarding the success of the company:
+  * An article published on October 12, 2023 in Yahoo Finance titled  **Why You Should Retain ExlService (EXLS) in Your Portfolio** starts with :
+    
+    > **ExlService Holdings, Inc.** EXLS, a leading data analytics and digital solutions firm, partners with clients to boost business outcomes and drive growth. The company leverages deep domain expertise, data, advanced analytics, cloud, artificial intelligence (AI), and Machine Learning (ML) to deliver agile solutions and manage complex operations for top companies across industries like insurance, healthcare, banking, media, and retail.
+    
+  * According to a publication in EXL's news room, **The Clinical and Care Management Operations – Services PEAK Matrix® Assessment 2023** named EXL amongst the leaders. This was confirmed by visiting the [Everest Group](https://www2.everestgrp.com/reportaction/EGR-2023-53-R-6050/Marketing?_ga=2.216571794.525816873.1690815737-1339341408.1674752911) website and reviewing an extract of the report valued in $6,499. According to the EXL site the report states that :
+    
+      > “EXL’s wide portfolio of technology offerings, ranging from point solutions to end-to-end integrated platforms, flexibility of solutions stack to cater to a diverse set of enterprises across sizes, and deep clinical talent pool have enabled it to be positioned as a Leader in Everest Group’s CCM Operations – Services PEAK Matrix® Assessment 2023.”
+      
+* Trying to compare this to other similar companies no clear metrics where found. Common features constantly mentioned on sites that rate the top Data Analytics companies seemed to be
   *   Experience in years serving a certain industry,
   *   Type of Services they offer,
+  *   Stock Market Performance
   *   The size of their top customers. While some companies mention "One of the top 3 Insurance Companies" others mention specific companies like Walmart, Toyota, 21st Century Fox, etc.
-
-* EXLServices did not appear in any top ranking charts. Depending on the website the companies listed would be Large and Largely known companies as Oracle, Amazon, IBM, etc. while others would mention less known companies such as Tableu, Qlick, Splunk, Fractal Analytics. 
 
 ## Recommendations
 
-* Currently the company is advertising among their Products/Services "Data Governance as a Service (DGaaS)" and "Automating Audit using AI", this last one seems to be only aimed at Insurance companies. 
+* Currently the company is advertising among their Products/Services "Data Governance as a Service (DGaaS)" and "Automating Audit using AI", this last one seems to be mainly aimed at Insurance companies. 
 
-* There is a BIG room to grow in Governance, Risk, and Compliance (GRC) using AI. Internal Audit usually takes a lot of Humans and a lot Human Hours in monotonous tasks like finding documents and going through looking for the needed compliance information. Monotonous tasks which AI should be able to do more efficiently in a small fraction of the time and at a fraction of the cost. This would reduce the looking time and allow the auditor to just review the results
+* There is a ***BIG*** room for the use of AI to grow in **Governance, Risk, and Compliance (GRC)** . Internal Audit usually takes a lot of Humans and a lot Human Hours in monotonous tasks like finding documents and going through looking for the needed compliance information. Monotonous tasks which AI should be able to do more efficiently in a small fraction of the time and at a fraction of the cost. This would reduce the **"looking for"** time and allow the auditor to just review the results.
   
 ## Sources
 
-  * Oak Hill Capital Partners, L.P., Financial Technology Ventures (Q), L.P. Justia. (n.d.). https://contracts.justia.com/companies/exlservice-holdings-inc-492/contract/1029998/
-  * EXL Service, https://www.exlservice.com/about-exl
-  * Adam Shell (2023, February 02), Investor's Business Daily. CEO Of Fast-Growing Company Says Hard Work Isn't Enough.  https://www.investors.com/news/management/leaders-and-success/exlservice-ceo-rohit-kapoor-hard-work-competition/
-  * Ramish Cheema (2023, July 13), Insider Monkey. Top 5 Big Data Analytics Companies of 2023. https://www.insidermonkey.com/blog/top-5-big-data-analytics-companies-of-2023-1166842/?singlepage=1
-  * Ramish Cheema (2023, July 13), Yahopo Finance. Top 15 Big Data Analytics Companies of 2023. https://finance.yahoo.com/news/top-15-big-data-analytics-155243458.html
+  * Oak Hill Capital Partners, L.P., Financial Technology Ventures (Q), L.P. Justia. (n.d.). **https://contracts.justia.com/companies/exlservice-holdings-inc-492/contract/1029998/**
+  * EXL Service, **https://www.exlservice.com/about-exl**
+  * EXL Service, **https://www.exlservice.com/about/newsroom/exl-named-leader-everest-group-clinical-and-care-management-operations-services-peak-matrix-assessment-2023**
+  * Adam Shell (2023, February 02), Investor's Business Daily. *CEO Of Fast-Growing Company Says Hard Work Isn't Enough.*  **https://www.investors.com/news/management/leaders-and-success/exlservice-ceo-rohit-kapoor-hard-work-competition/**
+  * Ramish Cheema (2023, July 13), Insider Monkey. *Top 5 Big Data Analytics Companies of 2023*. **https://www.insidermonkey.com/blog/top-5-big-data-analytics-companies-of-2023-1166842/?singlepage=1**
+  * Ramish Cheema (2023, July 13), Yahoo Finance. *Top 15 Big Data Analytics Companies of 2023*. **https://finance.yahoo.com/news/top-15-big-data-analytics-155243458.html**
+  * Zachs Equity Research (2023, October 12) Yahoo Finance. *Why You Should Retain ExlService (EXLS) in Your Portfolio* **https://finance.yahoo.com/news/why-retain-exlservice-exls-portfolio-152300504.html**
+  * Everst Group, **https://www2.everestgrp.com/reportaction/EGR-2023-53-R-6050/Marketing?_ga=2.216571794.525816873.1690815737-1339341408.1674752911**
