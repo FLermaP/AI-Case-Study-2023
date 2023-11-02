@@ -74,10 +74,10 @@ EXL works with companies in Industries such as:
     
       > “EXL’s wide portfolio of technology offerings, ranging from point solutions to end-to-end integrated platforms, flexibility of solutions stack to cater to a diverse set of enterprises across sizes, and deep clinical talent pool have enabled it to be positioned as a Leader in Everest Group’s CCM Operations – Services PEAK Matrix® Assessment 2023.”
       
-* Trying to compare this to other similar companies no clear metrics where found. Common features constantly mentioned on sites that rate the top Data Analytics companies seemed to be
+* Trying to compare this to other similar companies no clear metrics where found. Common features constantly mentioned on sites that rate the top Data Analytics companies seemed to be:
   *   Experience in years serving a certain industry,
   *   Type of Services they offer,
-  *   Stock Market Performance
+  *   Stock Market Performance,
   *   The size of their top customers. While some companies mention "One of the top 3 Insurance Companies" others mention specific companies like Walmart, Toyota, 21st Century Fox, etc.
 
 ## Recommendations
